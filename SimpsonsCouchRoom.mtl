@@ -243,7 +243,7 @@ d 1.000000
 illum 2
 map_Kd int_sh_phone.bmp.png
 
-newmtl _int_sh_picc_m
+newmtl _int_sh_pic_m
 Ns 0.000000
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
@@ -254,7 +254,7 @@ d 1.000000
 illum 2
 map_Kd int_sh_picc.bmp.png
 
-newmtl _int_sh_picturee_m
+newmtl _int_sh_picture_m
 Ns 0.000000
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
@@ -441,7 +441,7 @@ d 1.000000
 illum 2
 map_Kd int_shfence.bmp.png
 
-newmtl _welcomematt_m_003
+newmtl _welcomemat_m_003
 Ns 0.000000
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
