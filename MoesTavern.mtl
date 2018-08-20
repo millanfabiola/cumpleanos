@@ -331,7 +331,7 @@ d 1.000000
 illum 2
 map_Kd phoneStop.bmp.png
 
-newmtl _welcomemat_m_003
+newmtl _welcomemat_m_001
 Ns 0.000000
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
