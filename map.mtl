@@ -250,7 +250,7 @@ newmtl MatD3D41
 	Kd 1.0 1.0 1.0
 	Ks 0.0 0.0 0.0
 	Ka 0.0 0.0 0.0
-	map_Kd Map-255.png
+	map_Kd Map-2555.png
 
 newmtl MatD3D42
 	Ns 0
